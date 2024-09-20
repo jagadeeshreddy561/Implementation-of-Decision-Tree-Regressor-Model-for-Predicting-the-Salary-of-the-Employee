@@ -28,7 +28,7 @@ Apply to new unknown values.
 
 ## Program:
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-## Developed by: Jagadeeshreddy 
+## Developed by: Mallu Jagadeeswar Reddy
 ## RegisterNumber: 212222240059  
 ```python
 import pandas as pd
